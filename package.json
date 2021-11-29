@@ -1,0 +1,29 @@
+{
+  "name": "parcle-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliZolfaghar/parcle-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliZolfaghar/parcle-learn/issues"
+  },
+  "homepage": "https://github.com/AliZolfaghar/parcle-learn#readme",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.11",
+    "parcel": "^2.0.1",
+    "postcss": "^8.4.4"
+  }
+}
